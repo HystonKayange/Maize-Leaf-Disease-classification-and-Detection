@@ -1,2 +1,2 @@
-# Maize-Leaf-Disease-classification-and-Detection
+# Maize-Leaf-Disease-classification-and-Detection Model
 Final evaluation
